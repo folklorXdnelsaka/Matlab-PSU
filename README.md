@@ -22,7 +22,7 @@ This project is being developed in stages to cover the full lifecycle of ship de
 ## Academic Credits
 This project was developed as a specialized Marine Engineering study at **Port Said University (PSU)**.
 
-* **Developers:** * **Youssef Hany** (3rd Year Marine Engineering & Naval Architecture)
+* **Developers:** * **Youssef Hany** , **Amr ElShaabany** , **Mohamed Elbayaa** , **Mohamed Ashraf** (3rd Year Marine Engineering & Naval Architecture)
   * **Youssef Elsaka** (3rd Year Marine Engineering & Naval Architecture)
 * **Supervised by:** * **Dr. Hussien Elmasry**
 
